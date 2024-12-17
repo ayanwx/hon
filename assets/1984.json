@@ -1,0 +1,627 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 926,
+  "items": [
+      {
+          "kind": "books#volume",
+          "id": "uyr8BAAAQBAJ",
+          "etag": "4FLvrSt4KUU",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/uyr8BAAAQBAJ",
+          "volumeInfo": {
+              "title": "1984",
+              "authors": [
+                  "George Orwell"
+              ],
+              "publisher": "Arcturus Publishing",
+              "publishedDate": "2014-01-04",
+              "description": "George Orwell's dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century, making famous Big Brother, newspeak and Room 101. 'Who controls the past controls the future: who controls the present controls the past'",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781784043735"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1784043737"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": true
+              },
+              "pageCount": 361,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "averageRating": 4,
+              "ratingsCount": 7,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": true,
+              "contentVersion": "1.3.3.0.preview.3",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=uyr8BAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=uyr8BAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=uyr8BAAAQBAJ&printsec=frontcover&dq=1984&hl=&cd=1&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=uyr8BAAAQBAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=uyr8BAAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "PARTIAL",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/1984-sample-epub.acsm?id=uyr8BAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "pdf": {
+                  "isAvailable": true,
+                  "acsTokenLink": "http://books.google.com/books/download/1984-sample-pdf.acsm?id=uyr8BAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=uyr8BAAAQBAJ&hl=&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "George Orwell&#39;s dystopian masterpiece, Nineteen Eighty-Four is perhaps the most pervasively influential book of the twentieth century, making famous Big Brother, newspeak and Room 101."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "w-rb62wiFAwC",
+          "etag": "XvQLIo9+foQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/w-rb62wiFAwC",
+          "volumeInfo": {
+              "title": "Nineteen Eighty-Four",
+              "authors": [
+                  "George Orwell"
+              ],
+              "publisher": "1st World Library",
+              "publishedDate": "2004",
+              "description": "Purchase one of 1st World Library's Classic Books and help support our free internet library of downloadable eBooks. Visit us online at www.1stWorldLibrary.ORG - - It was a bright cold day in April, and the clocks were striking thirteen. Winston Smith, his chin nuzzled into his breast in an effort to escape the vile wind, slipped quickly through the glass doors of Victory Mansions, though not quickly enough to prevent a swirl of gritty dust from entering along with him. The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted imply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. Even at the best of times it was seldom working, and at present the electric current was cut off during daylight hours. It was part of the economy drive in preparation for Hate Week. The flat was seven flights up, and Winston, who was thirty-nine and had a varicose ulcer above his right ankle, went slowly, resting several times on the way. On each landing, opposite the lift-shaft, the poster with the enormous face gazed from the wall. It was one of those pictures which are so contrived that the eyes follow you about when you move. BIG BROTHER IS WATCHING YOU, the caption beneath it ran.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "1595404325"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781595404329"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 388,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "averageRating": 4.5,
+              "ratingsCount": 47,
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "1.1.1.0.preview.0",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=w-rb62wiFAwC&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=w-rb62wiFAwC&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=w-rb62wiFAwC&dq=1984&hl=&cd=2&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=w-rb62wiFAwC&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Nineteen_Eighty_Four.html?hl=&id=w-rb62wiFAwC"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=w-rb62wiFAwC&hl=&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Purchase one of 1st World Library&#39;s Classic Books and help support our free internet library of downloadable eBooks."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "FcqNEAAAQBAJ",
+          "etag": "e2XeO8SL86w",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/FcqNEAAAQBAJ",
+          "volumeInfo": {
+              "title": "1984",
+              "authors": [
+                  "George Orwell"
+              ],
+              "publisher": "National Geographic Books",
+              "publishedDate": "1983-04-01",
+              "description": "Written more than 70 years ago, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever... • Nominated as one of America’s best-loved novels by PBS’s The Great American Read • “The Party told you to reject the evidence of your eyes and ears. It was their final, most essential command.” Winston Smith toes the Party line, rewriting history to satisfy the demands of the Ministry of Truth. With each lie he writes, Winston grows to hate the Party that seeks power for its own sake and persecutes those who dare to commit thoughtcrimes. But as he starts to think for himself, Winston can’t escape the fact that Big Brother is always watching... A startling and haunting novel, 1984 creates an imaginary world that is completely convincing from start to finish. No one can deny the novel’s hold on the imaginations of whole generations, or the power of its admonitions—a power that seems to grow, not lessen, with the passage of time.",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9780452262935"
+                  },
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "0452262933"
+                  }
+              ],
+              "readingModes": {
+                  "text": true,
+                  "image": false
+              },
+              "pageCount": 0,
+              "printType": "BOOK",
+              "categories": [
+                  "Fiction"
+              ],
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=FcqNEAAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=FcqNEAAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=FcqNEAAAQBAJ&dq=1984&hl=&cd=3&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=FcqNEAAAQBAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=FcqNEAAAQBAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=FcqNEAAAQBAJ&hl=&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Written more than 70 years ago, 1984 was George Orwell’s chilling prophecy about the future."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "CuYCAAAAMBAJ",
+          "etag": "JsVw1lG+tJI",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/CuYCAAAAMBAJ",
+          "volumeInfo": {
+              "title": "New York Magazine",
+              "publishedDate": "1984-12-03",
+              "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 220,
+              "printType": "MAGAZINE",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=CuYCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=CuYCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=CuYCAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=4&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=CuYCAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=CuYCAAAAMBAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=CuYCAAAAMBAJ&hl=&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "0uMDAAAAMBAJ",
+          "etag": "YaDbmbPJo1Y",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/0uMDAAAAMBAJ",
+          "volumeInfo": {
+              "title": "Popular Mechanics",
+              "publishedDate": "1984-01",
+              "description": "Popular Mechanics inspires, instructs and influences readers to help them master the modern world. Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle.",
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 176,
+              "printType": "MAGAZINE",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=0uMDAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=0uMDAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=0uMDAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=5&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=0uMDAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Popular_Mechanics.html?hl=&id=0uMDAAAAMBAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=0uMDAAAAMBAJ&hl=&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "Whether it’s practical DIY home-improvement tips, gadgets and digital technology, information on the newest cars or the latest breakthroughs in science -- PM is the ultimate guide to our high-tech lifestyle."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "uCZUswEACAAJ",
+          "etag": "3EHE8UkBMhQ",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/uCZUswEACAAJ",
+          "volumeInfo": {
+              "title": "1984",
+              "authors": [
+                  "Eric Arthur Blair, Eric Arthur"
+              ],
+              "publisher": "Createspace Independent Publishing Platform",
+              "publishedDate": "2018-01-17",
+              "description": "Nineteen Eighty-Four, often published as 1984, is a dystopian novel by English author George Orwell published in 1949. The novel is set in Airstrip One (formerly known as Great Britain), a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance and public manipulation, dictated by a political system euphemistically named English Socialism (or Ingsoc in the government's invented language, Newspeak) under the control of a privileged elite of the Inner Party, that persecutes individualism and independent thinking as \"thoughtcrime",
+              "industryIdentifiers": [
+                  {
+                      "type": "ISBN_10",
+                      "identifier": "198373263X"
+                  },
+                  {
+                      "type": "ISBN_13",
+                      "identifier": "9781983732638"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "pageCount": 450,
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=uCZUswEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=uCZUswEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=uCZUswEACAAJ&dq=1984&hl=&cd=6&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=uCZUswEACAAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/1984.html?hl=&id=uCZUswEACAAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=uCZUswEACAAJ&hl=&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "The novel is set in Airstrip One (formerly known as Great Britain), a province of the superstate Oceania in a world of perpetual war, omnipresent government surveillance and public manipulation, dictated by a political system ..."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "bcA9C78IvecC",
+          "etag": "cAgfhqtYYv4",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/bcA9C78IvecC",
+          "volumeInfo": {
+              "title": "Ebony",
+              "publishedDate": "1984-08",
+              "description": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine.",
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 176,
+              "printType": "MAGAZINE",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.1.0.preview.1",
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=bcA9C78IvecC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=bcA9C78IvecC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=bcA9C78IvecC&printsec=frontcover&dq=1984&hl=&cd=7&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=bcA9C78IvecC&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/Ebony.html?hl=&id=bcA9C78IvecC"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=bcA9C78IvecC&hl=&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "EBONY is the flagship magazine of Johnson Publishing. Founded in 1945 by John H. Johnson, it still maintains the highest global circulation of any African American-focused magazine."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "iuUCAAAAMBAJ",
+          "etag": "8/yVJiTWET8",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/iuUCAAAAMBAJ",
+          "volumeInfo": {
+              "title": "New York Magazine",
+              "publishedDate": "1984-01-09",
+              "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 112,
+              "printType": "MAGAZINE",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=iuUCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=iuUCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=iuUCAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=8&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=iuUCAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=iuUCAAAAMBAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=iuUCAAAAMBAJ&hl=&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "m4EsHAAACAAJ",
+          "etag": "2jyeoYZIU+Y",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/m4EsHAAACAAJ",
+          "volumeInfo": {
+              "title": "1984, by George Orwell",
+              "subtitle": "Notes",
+              "authors": [
+                  "R. J. Fairclough",
+                  "George Orwell"
+              ],
+              "publishedDate": "1970",
+              "industryIdentifiers": [
+                  {
+                      "type": "OTHER",
+                      "identifier": "OCLC:59801197"
+                  }
+              ],
+              "readingModes": {
+                  "text": false,
+                  "image": false
+              },
+              "printType": "BOOK",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "preview-1.0.0",
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=m4EsHAAACAAJ&dq=1984&hl=&cd=9&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=m4EsHAAACAAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/1984_by_George_Orwell.html?hl=&id=m4EsHAAACAAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "NO_PAGES",
+              "embeddable": false,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=m4EsHAAACAAJ&hl=&source=gbs_api",
+              "accessViewStatus": "NONE",
+              "quoteSharingAllowed": false
+          }
+      },
+      {
+          "kind": "books#volume",
+          "id": "J-QCAAAAMBAJ",
+          "etag": "LK4S8oCdCvs",
+          "selfLink": "https://www.googleapis.com/books/v1/volumes/J-QCAAAAMBAJ",
+          "volumeInfo": {
+              "title": "New York Magazine",
+              "publishedDate": "1981-08-31",
+              "description": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country. With award-winning writing and photography covering everything from politics and food to theater and fashion, the magazine's consistent mission has been to reflect back to its audience the energy and excitement of the city itself, while celebrating New York as both a place and an idea.",
+              "readingModes": {
+                  "text": false,
+                  "image": true
+              },
+              "pageCount": 96,
+              "printType": "MAGAZINE",
+              "maturityRating": "NOT_MATURE",
+              "allowAnonLogging": false,
+              "contentVersion": "0.0.2.0.preview.1",
+              "panelizationSummary": {
+                  "containsEpubBubbles": false,
+                  "containsImageBubbles": false
+              },
+              "imageLinks": {
+                  "smallThumbnail": "http://books.google.com/books/content?id=J-QCAAAAMBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+                  "thumbnail": "http://books.google.com/books/content?id=J-QCAAAAMBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+              },
+              "language": "en",
+              "previewLink": "http://books.google.com/books?id=J-QCAAAAMBAJ&printsec=frontcover&dq=1984&hl=&cd=10&source=gbs_api",
+              "infoLink": "http://books.google.com/books?id=J-QCAAAAMBAJ&dq=1984&hl=&source=gbs_api",
+              "canonicalVolumeLink": "https://books.google.com/books/about/New_York_Magazine.html?hl=&id=J-QCAAAAMBAJ"
+          },
+          "saleInfo": {
+              "country": "BD",
+              "saleability": "NOT_FOR_SALE",
+              "isEbook": false
+          },
+          "accessInfo": {
+              "country": "BD",
+              "viewability": "ALL_PAGES",
+              "embeddable": true,
+              "publicDomain": false,
+              "textToSpeechPermission": "ALLOWED",
+              "epub": {
+                  "isAvailable": false
+              },
+              "pdf": {
+                  "isAvailable": false
+              },
+              "webReaderLink": "http://play.google.com/books/reader?id=J-QCAAAAMBAJ&hl=&source=gbs_api",
+              "accessViewStatus": "SAMPLE",
+              "quoteSharingAllowed": false
+          },
+          "searchInfo": {
+              "textSnippet": "New York magazine was born in 1968 after a run as an insert of the New York Herald Tribune and quickly made a place for itself as the trusted resource for readers across the country."
+          }
+      }
+  ]
+}

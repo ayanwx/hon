@@ -1,0 +1,5 @@
+.yarn
+.expo
+assets
+app-example
+node_modules
