@@ -1,3 +1,4 @@
+import { Colors } from "@/constants/Colors";
 import { Text, View, StyleSheet } from "react-native";
 
 export default function Search() {
@@ -11,7 +12,7 @@ export default function Search() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#25292e",
+    backgroundColor: Colors.background_alt,
     justifyContent: "center",
     alignItems: "center",
   },
